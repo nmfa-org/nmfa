@@ -1,4 +1,4 @@
-# robots.txt — https://no-way.pages.dev/
+# robots.txt — https://multiphase.systems/
 # Default: allow everyone
 User-agent: *
 Allow: /
@@ -47,4 +47,4 @@ Allow: /
 User-agent: meta-externalagent
 Allow: /
 
-Sitemap: https://no-way.pages.dev/sitemap.xml
+Sitemap: https://multiphase.systems/sitemap.xml
